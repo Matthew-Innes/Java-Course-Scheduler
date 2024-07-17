@@ -1,5 +1,5 @@
 Course Scheduler
-Overview
+Overview:
 This project is a Course Scheduler that manages and organizes class scheduling information. The primary entities include courses, students, class details, and schedules. The scheduler interacts with a database where each table row is represented by a corresponding entry class in our codebase. These classes encapsulate the columns of the database tables.
 
 Classes and Properties
