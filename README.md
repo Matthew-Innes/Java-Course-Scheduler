@@ -1,0 +1,1 @@
+Course Scheduler is a Java-based application designed to assist students in creating and managing their class schedules. The application provides a user-friendly interface for adding courses, viewing schedules, and ensuring that there are no conflicts between selected courses.
